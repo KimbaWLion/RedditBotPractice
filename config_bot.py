@@ -3,5 +3,5 @@
 
 # Fill in the values and rename this file to config_bot.py
 
-REDDIT_USERNAME = 'test'  # YOUR USERNAME as string
-REDDIT_PASS = 'test'  # YOUR PASSWORD as string
+REDDIT_USERNAME = ''  # YOUR USERNAME as string
+REDDIT_PASS = ''  # YOUR PASSWORD as string
